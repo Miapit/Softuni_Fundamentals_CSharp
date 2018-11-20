@@ -4,3 +4,4 @@ D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L202. S
 D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L202. Square Area\obj\Debug\L202. Square Area.csproj.CoreCompileInputs.cache
 D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L202. Square Area\obj\Debug\L202.Square_Area.exe
 D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L202. Square Area\obj\Debug\L202.Square_Area.pdb
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L202. Square Area\obj\Debug\L202. Square Area.csprojAssemblyReference.cache

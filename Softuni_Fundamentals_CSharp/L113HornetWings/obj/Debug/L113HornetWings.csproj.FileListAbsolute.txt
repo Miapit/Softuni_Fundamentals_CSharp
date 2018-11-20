@@ -1,0 +1,6 @@
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L113HornetWings\bin\Debug\L113HornetWings.exe.config
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L113HornetWings\bin\Debug\L113HornetWings.exe
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L113HornetWings\bin\Debug\L113HornetWings.pdb
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L113HornetWings\obj\Debug\L113HornetWings.csproj.CoreCompileInputs.cache
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L113HornetWings\obj\Debug\L113HornetWings.exe
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L113HornetWings\obj\Debug\L113HornetWings.pdb

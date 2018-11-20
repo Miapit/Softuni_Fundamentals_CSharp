@@ -1,0 +1,6 @@
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\ConsoleApp1\obj\Debug\L103.InchesToCantimeters.csproj.CoreCompileInputs.cache
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

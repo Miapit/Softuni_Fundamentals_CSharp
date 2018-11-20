@@ -1,0 +1,6 @@
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L111RealNumberTypes\bin\Debug\L111RealNumberTypes.exe.config
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L111RealNumberTypes\bin\Debug\L111RealNumberTypes.exe
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L111RealNumberTypes\bin\Debug\L111RealNumberTypes.pdb
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L111RealNumberTypes\obj\Debug\L111RealNumberTypes.csproj.CoreCompileInputs.cache
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L111RealNumberTypes\obj\Debug\L111RealNumberTypes.exe
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L111RealNumberTypes\obj\Debug\L111RealNumberTypes.pdb

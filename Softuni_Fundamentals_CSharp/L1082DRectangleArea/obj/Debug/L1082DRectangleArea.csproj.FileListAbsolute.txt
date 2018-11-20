@@ -1,0 +1,6 @@
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L1082DRectangleArea\bin\Debug\L1082DRectangleArea.exe.config
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L1082DRectangleArea\bin\Debug\L1082DRectangleArea.exe
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L1082DRectangleArea\bin\Debug\L1082DRectangleArea.pdb
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L1082DRectangleArea\obj\Debug\L1082DRectangleArea.csproj.CoreCompileInputs.cache
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L1082DRectangleArea\obj\Debug\L1082DRectangleArea.exe
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L1082DRectangleArea\obj\Debug\L1082DRectangleArea.pdb

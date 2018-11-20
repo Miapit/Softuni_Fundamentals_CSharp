@@ -1,0 +1,7 @@
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L112BigPower\bin\Debug\L112BigPower.exe.config
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L112BigPower\bin\Debug\L112BigPower.exe
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L112BigPower\bin\Debug\L112BigPower.pdb
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L112BigPower\obj\Debug\L112BigPower.csproj.CoreCompileInputs.cache
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L112BigPower\obj\Debug\L112BigPower.exe
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L112BigPower\obj\Debug\L112BigPower.pdb
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L112BigPower\obj\Debug\L112BigPower.csprojAssemblyReference.cache

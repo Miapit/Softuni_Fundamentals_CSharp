@@ -1,0 +1,7 @@
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L104. Greeting by Name\bin\Debug\L104.Greeting_by_Name.exe.config
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L104. Greeting by Name\bin\Debug\L104.Greeting_by_Name.exe
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L104. Greeting by Name\bin\Debug\L104.Greeting_by_Name.pdb
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L104. Greeting by Name\obj\Debug\L104.GreetingbyName.csprojAssemblyReference.cache
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L104. Greeting by Name\obj\Debug\L104.GreetingbyName.csproj.CoreCompileInputs.cache
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L104. Greeting by Name\obj\Debug\L104.Greeting_by_Name.exe
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L104. Greeting by Name\obj\Debug\L104.Greeting_by_Name.pdb

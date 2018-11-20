@@ -1,0 +1,6 @@
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L110IntegerTypes\bin\Debug\L110IntegerTypes.exe.config
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L110IntegerTypes\bin\Debug\L110IntegerTypes.exe
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L110IntegerTypes\bin\Debug\L110IntegerTypes.pdb
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L110IntegerTypes\obj\Debug\L110IntegerTypes.csproj.CoreCompileInputs.cache
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L110IntegerTypes\obj\Debug\L110IntegerTypes.exe
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L110IntegerTypes\obj\Debug\L110IntegerTypes.pdb

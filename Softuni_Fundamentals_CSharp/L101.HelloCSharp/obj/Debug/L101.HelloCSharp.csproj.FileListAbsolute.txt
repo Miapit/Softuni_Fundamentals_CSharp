@@ -1,7 +1,6 @@
 D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L101.HelloCSharp\bin\Debug\L101.HelloCSharp.exe.config
 D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L101.HelloCSharp\bin\Debug\L101.HelloCSharp.exe
 D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L101.HelloCSharp\bin\Debug\L101.HelloCSharp.pdb
-D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L101.HelloCSharp\obj\Debug\L101.HelloCSharp.csprojAssemblyReference.cache
 D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L101.HelloCSharp\obj\Debug\L101.HelloCSharp.csproj.CoreCompileInputs.cache
 D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L101.HelloCSharp\obj\Debug\L101.HelloCSharp.exe
 D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L101.HelloCSharp\obj\Debug\L101.HelloCSharp.pdb

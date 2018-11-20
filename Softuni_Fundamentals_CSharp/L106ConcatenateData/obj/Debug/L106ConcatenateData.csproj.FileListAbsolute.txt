@@ -1,0 +1,7 @@
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L106ConcatenateData\bin\Debug\L106ConcatenateData.exe.config
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L106ConcatenateData\bin\Debug\L106ConcatenateData.exe
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L106ConcatenateData\bin\Debug\L106ConcatenateData.pdb
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L106ConcatenateData\obj\Debug\L106ConcatenateData.csproj.CoreCompileInputs.cache
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L106ConcatenateData\obj\Debug\L106ConcatenateData.exe
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L106ConcatenateData\obj\Debug\L106ConcatenateData.pdb
+D:\Misho\Softuni\Softuni_Fundamentals_CSharp\Softuni_Fundamentals_CSharp\L106ConcatenateData\obj\Debug\L106ConcatenateData.csprojAssemblyReference.cache
